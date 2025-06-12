@@ -1,0 +1,8 @@
+{
+  "VMName": "TestVM",
+  "MemoryStartupBytes": 2147483648,
+  "VHDPath": "C:\\HyperV\\VHDs\\TestVM.vhdx",
+  "VHDSizeBytes": 53687091200,
+  "SwitchName": "Default Switch",
+  "Generation": 2
+}
